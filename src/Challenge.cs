@@ -1,9 +1,8 @@
+/*
 // DESAFIO: Sistema de Notificações Multi-Plataforma
 // PROBLEMA: Um aplicativo precisa exibir notificações em diferentes plataformas (Web, Mobile, Desktop)
 // com diferentes tipos de conteúdo (Texto, Imagem, Vídeo). O código atual cria uma explosão de classes
 // combinando cada tipo de notificação com cada plataforma
-
-using System;
 
 namespace DesignPatternChallenge
 {
@@ -242,3 +241,4 @@ namespace DesignPatternChallenge
         }
     }
 }
+*/
